@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bolder;
+    margin: 1rem;
+}
