@@ -8,3 +8,6 @@ h2{
     font-weight: bolder;
     margin: 1rem;
 }
+.carousel-item>svg{
+    aspect-ratio: 5;
+}
