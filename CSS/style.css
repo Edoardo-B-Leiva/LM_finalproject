@@ -11,3 +11,7 @@ h2{
 .carousel-item>svg{
     aspect-ratio: 5;
 }
+.navtitle{
+    font-weight: bolder;
+    color: rgb(180, 45, 162);
+}
