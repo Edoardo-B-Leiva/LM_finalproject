@@ -1,4 +1,5 @@
 # LM_finalproject
+![GitHub License](https://img.shields.io/github/license/Edoardo-B-leiva/LM_finalproject?style=flat-square&label=License)
 ## Requirements
 - [BootStrap 5](https://getbootstrap.com)
 - [FontAwesome](https://fontawesome.com/)
