@@ -20,9 +20,10 @@ h2{
     height: 25rem;
 }
 
-,carousel-caption>text-start{
+.carousel-caption>*{
     color: white;
 }
+
 a{
     display: inline;
 }
