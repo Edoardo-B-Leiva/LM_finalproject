@@ -15,3 +15,17 @@ h2{
     font-weight: bolder;
     color: rgb(180, 45, 162);
 }
+.bd-placeholder-img{
+    overflow: hidden;
+    height: 25rem;
+}
+
+,carousel-caption>text-start{
+    color: white;
+}
+a{
+    display: inline;
+}
+ul{
+    list-style-type: none;
+}
