@@ -1,5 +1,6 @@
 # LM_finalproject
 ![GitHub License](https://img.shields.io/github/license/Edoardo-B-leiva/LM_finalproject?style=flat-square&label=License)
+
 Esta pagina ha sido exagerada apositamente, aunque sigue siendo una critica en contra de la censura y de las dictaduras a las que se le hace referencia.
 ## Requirements
 - [BootStrap 5](https://getbootstrap.com)
